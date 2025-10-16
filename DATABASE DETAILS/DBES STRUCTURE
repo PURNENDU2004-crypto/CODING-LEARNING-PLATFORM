@@ -1,0 +1,7 @@
+NAME                 TYPE             LENGTH/VALUE                NULL INDEX 
+
+id                   INT              11                          PRIMARY KEY        
+full_name            VARCHAR          50                                   
+USERNAME             VARCHAR          50                          
+email                VARCHAR          50                          
+password             VARCHAR          255                         
